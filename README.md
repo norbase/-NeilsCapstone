@@ -17,8 +17,11 @@ _**Gainz Trackr**_ is a fun and fitness-minded minimalist&#39;s dream of an app 
   - Daily HP
   - Weekly HP
   - Monthly HP
-- Daily data will be shown on a scale of calories consumed vs calories allowed for that day.
-- Weekly and monthly will show as a line graph to better track weight over time.
+- Daily data:
+  - New logs:
+    -  Search bar to allow user to start typing in exercise and produce a result(s) from dataset (if exercise is not included in dataset, field will be blank, allowing user to manually type in exercise name)
+    -  **+** button allowing user to add the workout to their Trackr
+- Weekly and monthly will display an HP status bar to the user, along with number of workouts completed, respectively.
 
 **Data Model**
 
